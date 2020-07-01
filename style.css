@@ -50,7 +50,7 @@ footer {
   padding-left: 15px;
 }
 .dot-grid {
-  background: url(/assets/i1_1967ca6a.png);
+  background: url(assets/i1_1967ca6a.png);
   background-position: -132px -38px;
   opacity: 0.55;
   background-size: 528px 68px;
@@ -90,7 +90,7 @@ footer {
 }
 
 .search-icon {
-  background: url(/assets/desktop_searchbox_sprites318_hr.webp);
+  background: url(assets/desktop_searchbox_sprites318_hr.webp);
   background-position: 0px 0px;
   height: 29px;
   width: 30px;
